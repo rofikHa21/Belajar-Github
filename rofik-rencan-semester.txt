@@ -1,5 +1,5 @@
 - Memperdalam Java
- => Belajar Graddle
+ => Belajar Spring Boot, Maven
 - Belajar JS dan PHP Framework
 => React
 => Vue
