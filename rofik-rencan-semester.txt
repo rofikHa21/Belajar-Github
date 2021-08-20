@@ -2,4 +2,6 @@
  => Belajar Graddle
 - Belajar JS dan PHP Framework
 => React
+=> Vue
 => Laravel
+=> Codeigniter
