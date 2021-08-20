@@ -1,5 +1,5 @@
 - Memperdalam Java
- => Belajar Graddle
+ => Belajar Graddle , Maven.
 - Belajar JS dan PHP Framework
 *JS
   => React
