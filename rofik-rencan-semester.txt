@@ -1,7 +1,12 @@
 - Memperdalam Java
- => Belajar Spring Boot, Maven
+
+ => Belajar Graddle, Spring Boot, Maven
 - Belajar JS dan PHP Framework
+*JavaScript
 => React
 => Vue
+*PHP
+=> Laravel
+
 => Laravel
 => Codeigniter
