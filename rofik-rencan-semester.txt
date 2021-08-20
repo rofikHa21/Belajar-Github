@@ -1,4 +1,5 @@
 - Memperdalam Java
  => Belajar Graddle
 - Belajar JS dan PHP Framework
+=> React
 => Laravel
